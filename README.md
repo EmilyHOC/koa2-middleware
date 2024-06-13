@@ -1,8 +1,6 @@
 node中间层服务框架
 
-### 作用与特色
-
-:gem: ​​ Node.js 是一个基于 Chrome V8 引擎的Javascript运行环境，使Javascript代码可以作为服务端程序运行在服务器上。
+​ Node.js 是一个基于 Chrome V8 引擎的Javascript运行环境，使Javascript代码可以作为服务端程序运行在服务器上。
 得益于Node.js 的事件驱动，非阻塞，异步I/O等特性的设计思想，使得Node.js非常适合作为高性能的I/O密集型的中间层应用框架。
 
 - 跨域：解决跨域问题，前端不需要任何相关配置。
